@@ -117,7 +117,7 @@ namespace Uppgift_5._11
                             Console.Write(karta[x1, y1]);
                         }
                     }
-                    Console.WriteLine();
+                    Console.WriteLine("");
                 }
             }
         
